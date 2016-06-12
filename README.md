@@ -1,2 +1,2 @@
 # coding-interview-prep
-Helping prepare for coding interviews
+Help prepare for technical interviews
